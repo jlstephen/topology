@@ -1068,3 +1068,14 @@
   Services:
   - SRMv2
 # ---------------------------------------------------------
+- Class: UNSCHEDULED
+  ID: 865421093
+  Description: Server room cooling failure
+  Severity: Outage
+  StartTime: May 20, 2021 20:15 +0000
+  EndTime: May 21, 2021 20:00 +0000
+  CreatedTime: May 20, 2021 20:21 +0000
+  ResourceName: MWT2_CE_UC
+  Services:
+  - CE
+# ---------------------------------------------------------
